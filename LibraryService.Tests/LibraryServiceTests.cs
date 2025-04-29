@@ -25,7 +25,7 @@ namespace LibraryService.Tests
             var book = new Book { Title = "Book 1", Author = "Author A", ISBN = "123456" };
             _service.AddBook(book);
 
-            Assert.AreEqual(1, _service.Books.Count);
+            Assert.AreEqual(999, _service.Books.Count);
         }
 
         [TestMethod]

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mezIauS76dmXGCCylmhSbFfhg6yQCOeMlCshjd5VCCY=",
+  "Hash": "LZgwZPiWy79SUcRMZYiAoGwDJQwoL5+iKWhsPy51qBI=",
   "Source": "Blazor_Lab_Starter_WebApp",
   "BasePath": "_content/Blazor_Lab_Starter_WebApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Blazor_Lab_Starter_WebApp\\wwwroot",
       "Source": "Blazor_Lab_Starter_WebApp",
-      "ContentRoot": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab7\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\",
       "BasePath": "_content/Blazor_Lab_Starter_WebApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Blazor_Lab_Starter_WebApp.styles.css",
+      "Identity": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab7\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Blazor_Lab_Starter_WebApp.styles.css",
       "SourceId": "Blazor_Lab_Starter_WebApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab7\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Blazor_Lab_Starter_WebApp",
       "RelativePath": "Blazor_Lab_Starter_WebApp#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "knkg5Eo+jfb+M8OkjMNw3NwDkbT2sFEZYLm8vvWK6AY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Blazor_Lab_Starter_WebApp.styles.css"
+      "OriginalItemSpec": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab7\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Blazor_Lab_Starter_WebApp.styles.css"
     },
     {
-      "Identity": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Blazor_Lab_Starter_WebApp.bundle.scp.css",
+      "Identity": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab7\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Blazor_Lab_Starter_WebApp.bundle.scp.css",
       "SourceId": "Blazor_Lab_Starter_WebApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab7\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Blazor_Lab_Starter_WebApp",
       "RelativePath": "Blazor_Lab_Starter_WebApp#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "knkg5Eo+jfb+M8OkjMNw3NwDkbT2sFEZYLm8vvWK6AY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Blazor_Lab_Starter_WebApp.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab7\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Blazor_Lab_Starter_WebApp.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab7\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\app.css",
       "SourceId": "Blazor_Lab_Starter_WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab7\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\",
       "BasePath": "_content/Blazor_Lab_Starter_WebApp",
       "RelativePath": "app#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab7\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "Blazor_Lab_Starter_WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab7\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\",
       "BasePath": "_content/Blazor_Lab_Starter_WebApp",
       "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab7\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "Blazor_Lab_Starter_WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab7\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\",
       "BasePath": "_content/Blazor_Lab_Starter_WebApp",
       "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab7\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\favicon.png",
       "SourceId": "Blazor_Lab_Starter_WebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab7\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\",
       "BasePath": "_content/Blazor_Lab_Starter_WebApp",
       "RelativePath": "favicon#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -146,7 +146,7 @@
   "Endpoints": [
     {
       "Route": "app.css",
-      "AssetFile": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\app.css",
+      "AssetFile": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab7\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -183,7 +183,7 @@
     },
     {
       "Route": "app.da95v2qkru.css",
-      "AssetFile": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\app.css",
+      "AssetFile": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab7\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -228,7 +228,7 @@
     },
     {
       "Route": "Blazor_Lab_Starter_WebApp.2zgmz94enl.bundle.scp.css",
-      "AssetFile": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Blazor_Lab_Starter_WebApp.bundle.scp.css",
+      "AssetFile": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab7\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Blazor_Lab_Starter_WebApp.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -273,7 +273,7 @@
     },
     {
       "Route": "Blazor_Lab_Starter_WebApp.2zgmz94enl.styles.css",
-      "AssetFile": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Blazor_Lab_Starter_WebApp.styles.css",
+      "AssetFile": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab7\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Blazor_Lab_Starter_WebApp.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -318,7 +318,7 @@
     },
     {
       "Route": "Blazor_Lab_Starter_WebApp.bundle.scp.css",
-      "AssetFile": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Blazor_Lab_Starter_WebApp.bundle.scp.css",
+      "AssetFile": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab7\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Blazor_Lab_Starter_WebApp.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -355,7 +355,7 @@
     },
     {
       "Route": "Blazor_Lab_Starter_WebApp.styles.css",
-      "AssetFile": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Blazor_Lab_Starter_WebApp.styles.css",
+      "AssetFile": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab7\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Blazor_Lab_Starter_WebApp.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -392,7 +392,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab7\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -413,7 +413,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 19:55:45 GMT"
+          "Value": "Fri, 04 Apr 2025 19:55:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -437,7 +437,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab7\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -458,7 +458,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 19:55:45 GMT"
+          "Value": "Fri, 04 Apr 2025 19:55:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -474,7 +474,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab7\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -495,7 +495,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 19:55:45 GMT"
+          "Value": "Fri, 04 Apr 2025 19:55:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -519,7 +519,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab7\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -540,7 +540,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 19:55:45 GMT"
+          "Value": "Fri, 04 Apr 2025 19:55:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -556,7 +556,7 @@
     },
     {
       "Route": "favicon.ifv42okdf2.png",
-      "AssetFile": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab7\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -601,7 +601,7 @@
     },
     {
       "Route": "favicon.png",
-      "AssetFile": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\favicon.png",
+      "AssetFile": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab7\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {

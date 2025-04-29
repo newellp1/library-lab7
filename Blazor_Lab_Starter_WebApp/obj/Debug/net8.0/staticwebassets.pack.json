@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Blazor_Lab_Starter_WebApp.bundle.scp.css",
+      "Id": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab7\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Blazor_Lab_Starter_WebApp.bundle.scp.css",
       "PackagePath": "staticwebassets\\Blazor_Lab_Starter_WebApp.2zgmz94enl.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\app.css",
+      "Id": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab7\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab7\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab7\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab7\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
