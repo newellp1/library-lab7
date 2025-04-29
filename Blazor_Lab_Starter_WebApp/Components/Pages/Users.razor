@@ -1,0 +1,85 @@
+﻿@page "/users"
+@inject ILibraryService Library
+
+<h3>Manage Users</h3>
+
+@if (!isEditing)
+{
+    <input type="text" @bind="newUser.Name" placeholder="Name" class="me-2" />
+    <input type="email" @bind="newUser.Email" placeholder="Email" class="me-2" />
+    <button class="btn btn-primary btn-sm" @onclick="AddUser">Add User</button>
+}
+else
+{
+    <input type="text" @bind="editUser.Name" placeholder="Name" class="me-2" />
+    <input type="email" @bind="editUser.Email" placeholder="Email" class="me-2" />
+    <button class="btn btn-success btn-sm" @onclick="SaveEdit">Save</button>
+    <button class="btn btn-secondary btn-sm" @onclick="CancelEdit">Cancel</button>
+}
+
+<table class="table mt-3">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Library.Users)
+        {
+            <tr>
+                <td>@user.Name</td>
+                <td>@user.Email</td>
+                <td>
+                    <button class="btn btn-warning btn-sm" @onclick="() => StartEdit(user)">Edit</button>
+                    <button class="btn btn-danger btn-sm" @onclick="() => DeleteUser(user.Id)">Delete</button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@code {
+    User newUser = new();
+    User editUser = new();
+    bool isEditing = false;
+
+    void AddUser()
+    {
+        if (!string.IsNullOrWhiteSpace(newUser.Name) && !string.IsNullOrWhiteSpace(newUser.Email))
+        {
+            Library.AddUser(newUser);
+            newUser = new();
+        }
+    }
+
+    void DeleteUser(int id)
+    {
+        Library.DeleteUser(id);
+    }
+
+    void StartEdit(User user)
+    {
+        isEditing = true;
+        editUser = new User
+            {
+                Id = user.Id,
+                Name = user.Name,
+                Email = user.Email
+            };
+    }
+
+    void SaveEdit()
+    {
+        Library.EditUser(editUser);
+        isEditing = false;
+        editUser = new();
+    }
+
+    void CancelEdit()
+    {
+        isEditing = false;
+        editUser = new();
+    }
+}

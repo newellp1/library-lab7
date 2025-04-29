@@ -1,0 +1,105 @@
+﻿@page "/borrow"
+@inject ILibraryService Library
+
+<h3>Borrow a Book</h3>
+
+<select class="form-select mb-2" @bind="selectedUserId">
+    <option value="">-- Select User --</option>
+    @foreach (var user in Library.Users)
+    {
+        <option value="@user.Id">@user.Name</option>
+    }
+</select>
+
+@if (selectedUserId != 0)
+{
+    <select class="form-select mb-2" @bind="selectedBookId">
+        <option value="">-- Select Book --</option>
+        @foreach (var book in Library.Books.Where(b => !b.IsBorrowed))
+        {
+            <option value="@book.Id">@book.Title</option>
+        }
+    </select>
+
+    <button class="btn btn-success btn-sm mb-3" @onclick="BorrowBook">Borrow</button>
+
+    <h4>Borrowed Books for @Library.Users.FirstOrDefault(u => u.Id == selectedUserId)?.Name</h4>
+
+    @if (Library.GetBorrowedBooksByUser(selectedUserId).Any())
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Return</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var book in Library.GetBorrowedBooksByUser(selectedUserId))
+                {
+                    <tr>
+                        <td>@book.Title</td>
+                        <td>
+                            <button class="btn btn-warning btn-sm" @onclick="() => ReturnBook(book.Id)">Return</button>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p><em>This user has not borrowed any books.</em></p>
+    }
+}
+
+<hr />
+
+<h4 class="mt-5">All Borrowed Books (All Users)</h4>
+
+@if (Library.GetAllBorrowedBooksWithUsers().Any())
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Book Title</th>
+                <th>Borrowed By</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var entry in Library.GetAllBorrowedBooksWithUsers())
+            {
+                <tr>
+                    <td>@entry.Book.Title</td>
+                    <td>@entry.User.Name</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p><em>No books are currently borrowed.</em></p>
+}
+
+@code {
+    int selectedUserId;
+    int selectedBookId;
+
+    void BorrowBook()
+    {
+        if (selectedUserId != 0 && selectedBookId != 0)
+        {
+            Library.BorrowBook(selectedUserId, selectedBookId);
+            selectedBookId = 0;
+        }
+    }
+
+    void ReturnBook(int bookId)
+    {
+        if (selectedUserId != 0)
+        {
+            Library.ReturnBook(selectedUserId, bookId);
+        }
+    }
+}

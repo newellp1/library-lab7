@@ -1,0 +1,640 @@
+{
+  "Version": 1,
+  "Hash": "mezIauS76dmXGCCylmhSbFfhg6yQCOeMlCshjd5VCCY=",
+  "Source": "Blazor_Lab_Starter_WebApp",
+  "BasePath": "_content/Blazor_Lab_Starter_WebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Blazor_Lab_Starter_WebApp\\wwwroot",
+      "Source": "Blazor_Lab_Starter_WebApp",
+      "ContentRoot": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\",
+      "BasePath": "_content/Blazor_Lab_Starter_WebApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Blazor_Lab_Starter_WebApp.styles.css",
+      "SourceId": "Blazor_Lab_Starter_WebApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Blazor_Lab_Starter_WebApp",
+      "RelativePath": "Blazor_Lab_Starter_WebApp#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "2zgmz94enl",
+      "Integrity": "knkg5Eo+jfb+M8OkjMNw3NwDkbT2sFEZYLm8vvWK6AY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Blazor_Lab_Starter_WebApp.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Blazor_Lab_Starter_WebApp.bundle.scp.css",
+      "SourceId": "Blazor_Lab_Starter_WebApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Blazor_Lab_Starter_WebApp",
+      "RelativePath": "Blazor_Lab_Starter_WebApp#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "2zgmz94enl",
+      "Integrity": "knkg5Eo+jfb+M8OkjMNw3NwDkbT2sFEZYLm8vvWK6AY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Blazor_Lab_Starter_WebApp.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\app.css",
+      "SourceId": "Blazor_Lab_Starter_WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\",
+      "BasePath": "_content/Blazor_Lab_Starter_WebApp",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "da95v2qkru",
+      "Integrity": "u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "SourceId": "Blazor_Lab_Starter_WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\",
+      "BasePath": "_content/Blazor_Lab_Starter_WebApp",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bpk8xqwxhs",
+      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "Blazor_Lab_Starter_WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\",
+      "BasePath": "_content/Blazor_Lab_Starter_WebApp",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\favicon.png",
+      "SourceId": "Blazor_Lab_Starter_WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\",
+      "BasePath": "_content/Blazor_Lab_Starter_WebApp",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 19:55:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "app.da95v2qkru.css",
+      "AssetFile": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 19:55:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "da95v2qkru"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "Blazor_Lab_Starter_WebApp.2zgmz94enl.bundle.scp.css",
+      "AssetFile": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Blazor_Lab_Starter_WebApp.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5933"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"knkg5Eo+jfb+M8OkjMNw3NwDkbT2sFEZYLm8vvWK6AY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 16:10:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2zgmz94enl"
+        },
+        {
+          "Name": "label",
+          "Value": "Blazor_Lab_Starter_WebApp.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-knkg5Eo+jfb+M8OkjMNw3NwDkbT2sFEZYLm8vvWK6AY="
+        }
+      ]
+    },
+    {
+      "Route": "Blazor_Lab_Starter_WebApp.2zgmz94enl.styles.css",
+      "AssetFile": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Blazor_Lab_Starter_WebApp.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5933"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"knkg5Eo+jfb+M8OkjMNw3NwDkbT2sFEZYLm8vvWK6AY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 16:10:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2zgmz94enl"
+        },
+        {
+          "Name": "label",
+          "Value": "Blazor_Lab_Starter_WebApp.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-knkg5Eo+jfb+M8OkjMNw3NwDkbT2sFEZYLm8vvWK6AY="
+        }
+      ]
+    },
+    {
+      "Route": "Blazor_Lab_Starter_WebApp.bundle.scp.css",
+      "AssetFile": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Blazor_Lab_Starter_WebApp.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5933"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"knkg5Eo+jfb+M8OkjMNw3NwDkbT2sFEZYLm8vvWK6AY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 16:10:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-knkg5Eo+jfb+M8OkjMNw3NwDkbT2sFEZYLm8vvWK6AY="
+        }
+      ]
+    },
+    {
+      "Route": "Blazor_Lab_Starter_WebApp.styles.css",
+      "AssetFile": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Blazor_Lab_Starter_WebApp.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5933"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"knkg5Eo+jfb+M8OkjMNw3NwDkbT2sFEZYLm8vvWK6AY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 14 Apr 2025 16:10:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-knkg5Eo+jfb+M8OkjMNw3NwDkbT2sFEZYLm8vvWK6AY="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
+      "AssetFile": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 19:55:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 19:55:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 19:55:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 19:55:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ifv42okdf2.png",
+      "AssetFile": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 19:55:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "C:\\Users\\pcnew\\OneDrive\\Desktop\\ETSU\\CSCI-2910-001\\Labs\\Lab6\\Blazor_Lab_Starter_WebApp\\Blazor_Lab_Starter_WebApp\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 19:55:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    }
+  ]
+}

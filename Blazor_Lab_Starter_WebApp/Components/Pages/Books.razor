@@ -1,0 +1,95 @@
+﻿@page "/books"
+@inject ILibraryService Library
+
+<h3>Manage Books</h3>
+
+@if (!isEditing)
+{
+    <input type="text" @bind="newBook.Title" placeholder="Title" class="me-2" />
+    <input type="text" @bind="newBook.Author" placeholder="Author" class="me-2" />
+    <input type="text" @bind="newBook.ISBN" placeholder="ISBN" class="me-2" />
+    <button class="btn btn-primary btn-sm" @onclick="AddBook">Add Book</button>
+}
+else
+{
+    <input type="text" @bind="editBook.Title" placeholder="Title" class="me-2" />
+    <input type="text" @bind="editBook.Author" placeholder="Author" class="me-2" />
+    <input type="text" @bind="editBook.ISBN" placeholder="ISBN" class="me-2" />
+    <button class="btn btn-success btn-sm" @onclick="SaveEdit">Save</button>
+    <button class="btn btn-secondary btn-sm" @onclick="CancelEdit">Cancel</button>
+}
+
+<table class="table mt-3">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Author</th>
+            <th>ISBN</th>
+            <th>Borrowed</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Library.Books)
+        {
+            <tr>
+                <td>@book.Title</td>
+                <td>@book.Author</td>
+                <td>@book.ISBN</td>
+                <td>@(book.IsBorrowed ? "Yes" : "No")</td>
+                <td>
+                    <button class="btn btn-warning btn-sm" @onclick="() => StartEdit(book)">Edit</button>
+                    <button class="btn btn-danger btn-sm" @onclick="() => DeleteBook(book.Id)">Delete</button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@code {
+    Book newBook = new();
+    Book editBook = new();
+    bool isEditing = false;
+
+    void AddBook()
+    {
+        if (!string.IsNullOrWhiteSpace(newBook.Title) &&
+            !string.IsNullOrWhiteSpace(newBook.Author) &&
+            !string.IsNullOrWhiteSpace(newBook.ISBN))
+        {
+            Library.AddBook(newBook);
+            newBook = new();
+        }
+    }
+
+    void DeleteBook(int id)
+    {
+        Library.DeleteBook(id);
+    }
+
+    void StartEdit(Book book)
+    {
+        isEditing = true;
+        editBook = new Book
+            {
+                Id = book.Id,
+                Title = book.Title,
+                Author = book.Author,
+                ISBN = book.ISBN,
+                IsBorrowed = book.IsBorrowed
+            };
+    }
+
+    void SaveEdit()
+    {
+        Library.EditBook(editBook);
+        isEditing = false;
+        editBook = new();
+    }
+
+    void CancelEdit()
+    {
+        isEditing = false;
+        editBook = new();
+    }
+}
