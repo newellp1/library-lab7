@@ -1,0 +1,13 @@
+# Ignore Visual Studio temporary files, build results, and user files
+
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.dbmdl
+*.db
+*.DS_Store
+*.vscode/
